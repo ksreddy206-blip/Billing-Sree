@@ -1,0 +1,128 @@
+{
+  "NON VEG PIZZA": [
+    { "name": "Hot Spicy Chicken", "sizes": { "Regular": 149, "Medium": 179, "Large": 239 } },
+    { "name": "Chilly Chicken", "sizes": { "Regular": 159, "Medium": 189, "Large": 239 } },
+    { "name": "Chicken Tikka Delight", "sizes": { "Regular": 179, "Medium": 199, "Large": 269 } },
+    { "name": "Chicken Mushroom", "sizes": { "Regular": 179, "Medium": 199, "Large": 269 } },
+    { "name": "Super Chicken 65", "sizes": { "Regular": 179, "Medium": 199, "Large": 269 } },
+    { "name": "Crazy Chicken Delight", "sizes": { "Regular": 179, "Medium": 219, "Large": 289 } },
+    { "name": "Hot Star Chicken Pizza", "sizes": { "Regular": 179, "Medium": 229, "Large": 299 } }
+  ],
+
+  "VEG PIZZA": [
+    { "name": "Margherita", "sizes": { "Regular": 99, "Medium": 149, "Large": 199 } },
+    { "name": "Double Cheese Margherita", "sizes": { "Regular": 119, "Medium": 169, "Large": 229 } },
+    { "name": "Cheese & Corn", "sizes": { "Regular": 119, "Medium": 169, "Large": 229 } },
+    { "name": "Fresh Veg", "sizes": { "Regular": 119, "Medium": 169, "Large": 229 } },
+    { "name": "Exclusive Paneer", "sizes": { "Regular": 159, "Medium": 199, "Large": 259 } },
+    { "name": "Munchy Mushroom", "sizes": { "Regular": 159, "Medium": 199, "Large": 259 } },
+    { "name": "Veg Fiesta", "sizes": { "Regular": 179, "Medium": 219, "Large": 279 } },
+    { "name": "Hot Star Veg Pizza", "sizes": { "Regular": 179, "Medium": 219, "Large": 279 } }
+  ],
+
+  "FRIED CHICKEN": [
+    { "name": "Fried Chicken 1 Pc", "price": 89 },
+    { "name": "Fried Chicken 2 Pcs", "price": 169 },
+    { "name": "Fried Chicken 4 Pcs", "price": 319 },
+    { "name": "Fried Chicken 8 Pcs", "price": 629 },
+    { "name": "Fried Chicken 12 Pcs", "price": 929 }
+  ],
+
+  "HOT WINGS": [
+    { "name": "Hot Wings 3 Pcs", "price": 89 },
+    { "name": "Hot Wings 4 Pcs", "price": 109 },
+    { "name": "Hot Wings 6 Pcs", "price": 149 },
+    { "name": "Hot Wings 10 Pcs", "price": 249 }
+  ],
+
+  "CHICKEN STRIPS": [
+    { "name": "Chicken Strips 3 Pcs", "price": 99 },
+    { "name": "Chicken Strips 6 Pcs", "price": 189 },
+    { "name": "Chicken Strips 12 Pcs", "price": 369 }
+  ],
+
+  "BURGERS": [
+    { "name": "Supreme Veg Burger", "price": 79 },
+    { "name": "Supreme Cheese Veg Burger", "price": 99 },
+    { "name": "Supreme Cheese Paneer Burger", "price": 129 },
+    { "name": "Hotstar Paneer Crunchy Burger", "price": 179 },
+    { "name": "Supreme Chicken Burger", "price": 119 },
+    { "name": "Supreme Chicken Cheese Burger", "price": 139 },
+    { "name": "Chicken Double Cheese Burger", "price": 159 },
+    { "name": "Hotstar Chicken Crunchy Burger", "price": 199 }
+  ],
+
+  "VEG ROLLS": [
+    { "name": "Veg Spring Roll (2 Pcs)", "price": 69 },
+    { "name": "Paneer Roll (3 Pcs)", "price": 139 }
+  ],
+
+  "NON VEG ROLLS": [
+    { "name": "Chicken Spring Roll (3 Pcs)", "price": 99 }
+  ],
+
+  "NUGGETS": [
+    { "name": "Veg Nuggets (5 Pcs)", "price": 79 },
+    { "name": "Chicken Nuggets (5 Pcs)", "price": 99 },
+    { "name": "Veg Cheese Balls (5 Pcs)", "price": 59 },
+    { "name": "Cheese Corn Nuggets (5 Pcs)", "price": 79 }
+  ],
+
+  "FRIED MOMOS": [
+    { "name": "Veg Momos (4 Pcs)", "price": 59 },
+    { "name": "Cheese Corn Momos (4 Pcs)", "price": 79 },
+    { "name": "Mushroom Momos (4 Pcs)", "price": 99 },
+    { "name": "Paneer Momos (4 Pcs)", "price": 99 },
+    { "name": "Chicken Momos (4 Pcs)", "price": 119 }
+  ],
+
+  "ICE CREAMS": [
+    { "name": "Vanilla", "price": 49 },
+    { "name": "Mango", "price": 69 },
+    { "name": "Strawberry", "price": 79 },
+    { "name": "Butterscotch", "price": 89 },
+    { "name": "Dark Chocolate", "price": 99 },
+    { "name": "Black Currant", "price": 99 }
+  ],
+
+  "MILK SHAKES": [
+    { "name": "Vanilla Shake", "price": 99 },
+    { "name": "Strawberry Shake", "price": 99 },
+    { "name": "Mango Shake", "price": 99 },
+    { "name": "Dark Chocolate Shake", "price": 119 },
+    { "name": "Butter Scotch Shake", "price": 119 },
+    { "name": "Black Currant Shake", "price": 139 }
+  ],
+
+  "SIGNATURE SHAKES": [
+    { "name": "Crunchy Butter Scotch", "price": 149 },
+    { "name": "Oreo Classic", "price": 149 },
+    { "name": "Delicious Blueberry", "price": 149 },
+    { "name": "Triple Choco Chip", "price": 179 }
+  ],
+
+  "FREAK SHAKES": [
+    { "name": "The Big Bang", "price": 199 },
+    { "name": "Moon Walker", "price": 199 }
+  ],
+
+  "MOCKTAILS": [
+    { "name": "Blue Suracyct", "price": 79 },
+    { "name": "Red Wine", "price": 79 },
+    { "name": "Green Apple", "price": 79 },
+    { "name": "Mojito", "price": 79 },
+    { "name": "Raspberry", "price": 79 }
+  ],
+
+  "COMBOS": [
+    { "name": "Super Chicken 65 Combo", "price": 449 },
+    { "name": "Any 1 Large Chicken Pizza Combo", "price": 599 },
+    { "name": "Hot Star Chicken Combo", "price": 489 },
+    { "name": "Any 2 Regular Pizza Combo", "price": 699 },
+    { "name": "Veg + Chicken Combo", "price": 899 },
+    { "name": "Veg & Non-Veg Combo", "price": 499 },
+    { "name": "Chicken Big Bucket", "price": 799 },
+    { "name": "Chicken Small Bucket", "price": 599 },
+    { "name": "Hot Spicy Chicken Combo", "price": 399 }
+  ]
+}
